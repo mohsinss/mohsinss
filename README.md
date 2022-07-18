@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mohsinss
 - 👀 I’m interested in JS
 - 🌱 I’m currently learning JS
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on my project MagicalResume ...
 - 📫 How to reach me MohsinB.Alshammari@gmail.com
 
 <!---
